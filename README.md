@@ -14,3 +14,7 @@ Here is the list of questions I believe to be important or unique.
 ## DFS & BFS
 
 - [백조의 호수](https://www.acmicpc.net/problem/3197) (Platinum): Memory limit is quite harsh
+
+## Graph
+
+- [탈옥](https://www.acmicpc.net/problem/9376) (Platinum)
