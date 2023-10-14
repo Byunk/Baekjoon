@@ -14,6 +14,7 @@ Here is the list of questions I believe to be important or unique.
 ## DFS & BFS
 
 - [백조의 호수](https://www.acmicpc.net/problem/3197) (Platinum): Memory limit is quite harsh
+- [레이저 통신](https://www.acmicpc.net/problem/6087) (Gold): 어려운 엣지 케이스 및 요구조건
 
 ## Graph
 
