@@ -9,7 +9,8 @@ Here is the list of questions I believe to be important or unique.
 ## DP
 
 - [평범한 배낭](https://www.acmicpc.net/problem/12865) (Gold): Knapsack Problem ( $DP[i][j] = max(DP[i - 1][j], DP[i - 1][j - W[i]] + V[i])$ )
-- [행력 제곱](https://www.acmicpc.net/problem/10830) (Gold)
+- [행렬 제곱](https://www.acmicpc.net/problem/10830) (Gold)
+- [파일 합치기](https://www.acmicpc.net/problem/11066) (Gold): 이진트리 점화식
 
 ## DFS & BFS
 
